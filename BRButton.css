@@ -1,0 +1,11 @@
+body {
+	background: #222222FF;
+}
+
+.button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 600;
+	width: 600;
+}
